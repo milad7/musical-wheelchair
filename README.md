@@ -1,5 +1,5 @@
 # musical-wheelchair
-Musical Wheelchair is fun project based on musical chairs.Pick a number between 1 to 15 and let the Musical Wheelchair to play music and randomly stop on a numbered LED.
+Musical Wheelchair is a fun project based on musical chairs game.Pick a number between 1 to 15 and let the Musical Wheelchair to play music and randomly stop on a numbered LED.
 
 Part List:
 1) Coin Cell Battery Holder - 20mm x 1
