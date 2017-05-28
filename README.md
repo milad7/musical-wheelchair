@@ -1,6 +1,11 @@
 # musical-wheelchair
 Musical Wheelchair is a fun project based on musical chairs game.Pick a number between 1 to 15 and let the Musical Wheelchair to play music and randomly stop on a numbered LED.
 
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/milador/musical-wheelchair/master/resources/images/test_image_01.jpg" width="50%" height="50%" alt="Test Image"/>
+</p>
+
+
 Part List:
 1) Coin Cell Battery Holder - 20mm x 1
 https://www.sparkfun.com/products/783
@@ -26,4 +31,3 @@ http://www.digikey.com/product-detail/en/amphenol-fci/67997-206HLF/609-3234-ND/1
 
 8) 100 Ohm 1/4W 5% CF MINI x 4
 http://www.digikey.ca/product-detail/en/stackpole-electronics-inc/CFM14JT100R/S100QCT-ND/2617658
-
