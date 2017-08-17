@@ -1,0 +1,10 @@
+﻿Qty,Component name,Line Item,Manufacturer,MPN,SKU,SKU,URL,
+,,,,,Digi-Key,Sparkfun,,
+1,Coin Cell Battery Holder,BS-7 ,Arduino,BS-7 ,BS-7-ND , PRT-00783,https://www.sparkfun.com/products/783,https://www.digikey.ca/product-detail/en/mpd-memory-protection-devices/BS-7/BS-7-ND/389447
+1,Mini Speaker,CEM-1203(42) ,CUI Inc.,CEM-1203(42) ,102-1153-ND ,COM-07950,https://www.digikey.ca/product-detail/en/cui-inc/CEM-1203(42)/102-1153-ND/412412,
+1,ATtiny85,ATTINY85-20PU ,Microchip Technology,ATTINY85-20PU ,ATTINY85-20PU-ND ,COM-09378,https://www.digikey.ca/product-detail/en/microchip-technology/ATTINY85-20PU/ATTINY85-20PU-ND/735469,
+1,SPDT Mini Power Switch,EG1218,E-Switch,EG1218,EG1903-ND ,COM-00102,https://www.digikey.ca/product-detail/en/e-switch/EG1218/EG1903-ND/101726,
+15,LED - Basic Red 5mm,SSL-LX5093BSRD ,Lumex Opto/Components Inc.,SSL-LX5093BSRD ,67-1499-ND ,COM-09590,https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SSL-LX5093BSRD/67-1499-ND/273364,
+4,100 Ohm 1/4W 5% CF MINI,CFM14JT100R ,Stackpole Electronics,CFM14JT100R ,S100QCT-ND,,https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/CFM14JT100R/S100QCT-ND/2617658,
+1,"Header - 2x3 (Male, 0.1"")",67997-206HLF ,Amphenol FCI,67997-206HLF ,609-3234-ND ,PRT-12807,https://www.digikey.com/product-detail/en/amphenol-fci/67997-206HLF/609-3234-ND/1878491,
+1,DIP Sockets Solder Tail  (Optional),A 08-LC-TT ,Assmann WSW Components,A 08-LC-TT ,AE9986-ND ,PRT-07937,https://www.digikey.ca/product-detail/en/assmann-wsw-components/A-08-LC-TT/AE9986-ND/821740,
